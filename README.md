@@ -1,0 +1,2 @@
+# Neural-network-by-hand
+Created a neural network which can predict if a flower is red or blue based on its petal length. This project was made from scratch, doing all calculations manually without the use of any external machine learning libraries such as Pandas or TensorFlow. I challenged myself to implement concepts such as Backpropagation and Gradient Descent by hand. This program was written using Jupyter Notebook and made use of the Matplotlib library to illustrate the improvement in cost function, and to graph the boundary line on a scatterplot.
